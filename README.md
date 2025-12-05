@@ -1,6 +1,4 @@
-AI Generated:
-
-Here is a quick guide to running your SustainSwift prototype.
+Here is a quick Ai genrated guide to running your SustainSwift prototype.
 
 Since this architecture simulates a decentralized network (a Utility Provider, a Blockchain Node, and a Client Dashboard), you will need to run three separate processes simultaneously.
 
